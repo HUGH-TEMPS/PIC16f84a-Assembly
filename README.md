@@ -1,1 +1,1 @@
-You will need pickit 3.0 to code your pic16f84a and a compiler i'll attach the compiler 
+"You will need a PICKIT 3.0 to program your PIC16F84A and a compiler, MPSMWIN.EXE. Simply drag the ".asm" file and drop it into MPASMWIN.EXE without opening the compiler. This will immediately generate the ".hex" file, which you can then upload to your microcontroller using Proteus or any IDE."
